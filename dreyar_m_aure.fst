@@ -7,12 +7,8 @@ joint = jointNeck = Neck
 joint = jointRightHand = RightHand
 joint = jointLeftHand = LeftHand
 joint = jointLean = Spine
-joint = jointHead = Head
+joint = jointHead = HeadTop_End
 joint = jointRoot = Hips
-freeJoint = LeftArm
-freeJoint = LeftForeArm
-freeJoint = RightArm
-freeJoint = RightForeArm
 bs = LipsUpperUp = UpperLipUp_Right = 0.7
 bs = LipsUpperUp = UpperLipUp_Left = 0.7
 bs = MouthFrown_R = Frown_Right = 1
